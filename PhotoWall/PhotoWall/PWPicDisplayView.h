@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PWPicDisplayView.h
 //  PhotoWall
 //
 //  Created by shandan on 16/7/27.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PWPicDisplayView : UINavigationController
 
 @end
-
